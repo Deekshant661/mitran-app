@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "470862008140",
+    "project_id": "mitran-15841",
+    "storage_bucket": "mitran-15841.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470862008140:android:335813d09c8de8169f89e9",
+        "android_client_info": {
+          "package_name": "com.example.mitran_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470862008140-70hvoknntatah3lh6v8fd6t5s8k9na2e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mitran_app",
+            "certificate_hash": "93b50105a4e4c58d4dccb61ecbfd62906c36f1ae"
+          }
+        },
+        {
+          "client_id": "470862008140-ahl209vd1it9jhsbjj7kr60447236v2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdVjIIOmmIz-0upJaNhblLss7nMuXwgss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470862008140-ahl209vd1it9jhsbjj7kr60447236v2k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "470862008140-6f96048nve2p91oglb82n244rjfgk184.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mitranApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
