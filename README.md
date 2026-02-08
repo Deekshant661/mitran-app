@@ -1,4 +1,4 @@
-#  Mitran – Advanced Stray Dog Intelligence & Guardian Network (Frontend)
+#  Mitran – Advanced Stray Dog Intelligence & Guardian Network
 
 Mitran is an AI-powered, community-driven platform designed to address stray dog welfare challenges in the Delhi-NCR region.  
 This repository contains the **Flutter-based frontend** for the Mitran mobile application.
